@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Stash - Personal Save-for-Later Inbox",
+  "description": "A clean, private personal save-for-later inbox for notes, links, and photos with local persistent storage, tags, search, and native Android Jetpack Compose code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
